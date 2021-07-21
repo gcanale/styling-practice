@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap');
+
+
+
 body {
     margin: 10%;
     margin-top: 30px;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: 400; 
+    background-color: aquamarine;
 }
